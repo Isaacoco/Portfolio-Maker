@@ -7,7 +7,7 @@ Bienvenue sur le dépôt de mon **portfolio professionnel**, une vitrine de mes 
 ## 🚀 Aperçu
 Ce portfolio a été conçu pour refléter mon identité visuelle tout en assurant performance, accessibilité et fluidité. Il a été **développé en front-end moderne** (Next.js / React) et **déployé sur la plateforme Vercel** pour une mise en ligne simple et ultra-rapide.
 
-🌍 [Voir le site en ligne]([https://ton-nom.vercel.app](https://isaac-elbaze-portfolio.vercel.app/)
+🌍 Voir le site en ligne : ([https://ton-nom.vercel.app](https://isaac-elbaze-portfolio.vercel.app/)
 
 ---
 
