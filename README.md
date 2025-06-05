@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="banner2.png" alt="Portfolio généré avec Vercel" />
 </p>
@@ -44,7 +43,7 @@ Vercel m'a permis de :
 ---
 
 ## 📂 Structure du projet (simplifiée)
-```bash
+\`\`\`bash
 /
 ├── public/             # Images et ressources statiques
 ├── components/         # Composants React réutilisables

@@ -6,8 +6,16 @@ import { LanguageProvider } from "@/hooks/useLanguage"
 export const metadata: Metadata = {
   title: "Isaac EL BAZE - Portfolio",
   description: "Created with love.",
-  generator: "Isaacorp",
+  generator: "Isaacorp", 
+  icons: {
+    icon: "Isacorp.png",
+  },
 }
+
+<head>
+  <link rel="icon" href="Isacorp.png" type="image/png" />
+</head>
+
 
 export default function RootLayout({
   children,
