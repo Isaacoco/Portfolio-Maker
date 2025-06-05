@@ -4,9 +4,9 @@ import "./globals.css"
 import { LanguageProvider } from "@/hooks/useLanguage"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.dev",
+  title: "Isaac EL BAZE - Portfolio",
+  description: "Created with love.",
+  generator: "Isaacorp",
 }
 
 export default function RootLayout({
