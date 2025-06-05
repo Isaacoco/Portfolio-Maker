@@ -1,30 +1,46 @@
-# originalportfolio
+# 🌐 Portfolio Personnel – Développé avec Vercel
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Bienvenue sur le dépôt de mon **portfolio professionnel**, une vitrine de mes projets, compétences et services dans le domaine du développement web, du design UI/UX, et de la création digitale.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/isaacocos-projects/v0-originalportfolio)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/KnczSpkrSzl)
+---
 
-## Overview
+## 🚀 Aperçu
+Ce portfolio a été conçu pour refléter mon identité visuelle tout en assurant performance, accessibilité et fluidité. Il a été **développé en front-end moderne** (Next.js / React) et **déployé sur la plateforme Vercel** pour une mise en ligne simple et ultra-rapide.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+🌍 [Voir le site en ligne](https://ton-nom.vercel.app)
 
-## Deployment
+---
 
-Your project is live at:
+## 🛠️ Technologies utilisées
 
-**[https://vercel.com/isaacocos-projects/v0-originalportfolio](https://vercel.com/isaacocos-projects/v0-originalportfolio)**
+- **Next.js** – Framework React optimisé pour le SSR et la performance
+- **React.js** – Interface dynamique et composants réutilisables
+- **Tailwind CSS** – Style rapide, responsive et moderne
+- **Framer Motion** – Animations douces et interactives
+- **Vercel** – Déploiement continu et hébergement ultra-rapide
 
-## Build your app
+---
 
-Continue building your app on:
+## 📦 Déploiement avec Vercel
 
-**[https://v0.dev/chat/projects/KnczSpkrSzl](https://v0.dev/chat/projects/KnczSpkrSzl)**
+Vercel m'a permis de :
+- Pusher simplement le projet via GitHub
+- Déployer automatiquement chaque `commit` sur une URL de preview
+- Obtenir un **domaine personnalisé** en quelques clics
+- Bénéficier d’un **hébergement gratuit, sécurisé et scalable**
 
-## How It Works
+### ➕ Avantages
+✅ Aucun besoin de config serveur  
+✅ CI/CD intégré  
+✅ Pages statiques et dynamiques optimisées automatiquement  
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 📂 Structure du projet (simplifiée)
+```bash
+/
+├── public/             # Images et ressources statiques
+├── components/         # Composants React réutilisables
+├── pages/              # Pages du site (Next.js routing)
+├── styles/             # Fichiers CSS (ou Tailwind config)
+└── vercel.json         # Config spécifique si besoin
