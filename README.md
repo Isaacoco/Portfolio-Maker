@@ -1,4 +1,11 @@
+
+<p align="center">
+  <img src="banner2.png" alt="Portfolio généré avec Vercel" />
+</p>
+
 # 🌐 Portfolio Maker – Développé avec Vercel
+
+
 
 Bienvenue sur le dépôt de mon **portfolio professionnel**, une vitrine de mes projets, compétences et services dans le domaine du développement web, du design UI/UX, et de la création digitale.
 
